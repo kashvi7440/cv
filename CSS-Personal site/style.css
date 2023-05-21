@@ -1,0 +1,19 @@
+body{
+    background-color: #F2E3DB;
+}
+hr{
+    border-color: grey;
+    border-style:none;
+    border-top-style:dotted;
+    border-width: 5px;
+    width:5%;
+}
+img{
+    height: 90px;
+}
+h1{
+   color:purple;
+}
+h2{
+    color: purple;
+}
